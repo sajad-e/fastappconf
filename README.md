@@ -8,7 +8,7 @@
 
 ## 🚀 Features
 
-- ✅ Easy initialization of a `FastAPI` app with common settings
+- ✅ Easy initialization of a [`FastAPI`](https://github.com/fastapi/fastapi) app with common settings
 - 🔒 CORS configuration
 - 📁 Automatic mounting of static directories
 - 📜 Swagger UI with optional offline assets support
